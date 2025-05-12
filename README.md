@@ -40,11 +40,10 @@
 </div>
 <div>
   <br>
-Eu também gosto muito de call of duty.
+ter uma grande habilidade ao desenhar
 </p>
 <br>
   <div align="center">
-<img src="[https://i.imgur.com/KXx0cCx.gif](https://media1.tenor.com/m/-WJZMWuiy38AAAAC/bom-dia-valtatu%C3%AD-bom-dia.gif)" align="right" width="373.5px" height="208.5px">
   </div>
 <br>
 
