@@ -1,6 +1,6 @@
 <body>
   <center>
-<h1 align="center">~  Bem vindos ao meu perfil!  ~</h1>
+<h1 align="center">~  seja bem vindo  ~</h1>
 <br>
 <div align="center">
 <!-- <a href="" > -->
@@ -36,7 +36,6 @@
  <br>
 <p>
   <div align="center">
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
   </div>
 </div>
 <div>
