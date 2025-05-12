@@ -15,7 +15,6 @@
 <div>
 <h2 align="center"> ~ Sobre Mim ~ </h2>
   <div align="center">
-<img src="[https://media1.tenor.com/m/uzeKPffQKEkAAAAC/bom-dia-valtatui.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzF0YmI1OXYwb3hlMnZpd2ViM2kzNjZpcHo4YWszYWtpdmwwYWR3ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kGWeaPn2riLXJV2475/giphy.gif))" align="right">
   </div>
 <li>
  <b>Nome:</b> Alessandro</li>
@@ -52,8 +51,7 @@ ter uma grande habilidade ao desenhar
 <div>
 <h2 align="center"> ~ Obrigado por ler! ~ </h2>
 <div align="center">
-<img src="https://media1.tenor.com/m/6-UGxh94QkQAAAAC/bom-dia-aquele-dia-lindo.gif">
-</div>
+
 <hr>
 </div>
 </div>
