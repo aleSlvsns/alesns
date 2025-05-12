@@ -10,7 +10,7 @@
   
 </div>
     <div align="center">
-<!-- <img src="https://media3.giphy.com/media/eNN15JxJPCnFuUat81/giphy.webp?cid=ecf05e471aitxavhqjbfu0xzwqpw3un5qh6m3xba4pb8nmqp&ep=v1_gifs_search&rid=giphy.webp&ct=g"> -->
+<!-- <img src="[https://media3.giphy.com/media/eNN15JxJPCnFuUat81/giphy.webp?cid=ecf05e471aitxavhqjbfu0xzwqpw3un5qh6m3xba4pb8nmqp&ep=v1_gifs_search&rid=giphy.webp&ct=g](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVoZXFwcXI5bjhzamc4NWNqamNra3JhcDNnaDgzYW90M3NnaWx0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kGWeaPn2riLXJV2475/giphy.gif)"> -->
       </div>
 <div>
 <h2 align="center"> ~ Sobre Mim ~ </h2>
