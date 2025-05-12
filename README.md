@@ -3,7 +3,7 @@
 <h1 align="center">~  Bem vindos ao meu perfil!  ~</h1>
 <br>
 <div align="center">
-<!-- <a href="https://discord.com/users/desmatamento" > -->
+<!-- <a href="" > -->
   <a href="Carrd.io/fxxe/" >
    <img src=""  />
   </a>
@@ -13,21 +13,21 @@
 <!-- <img src="https://media3.giphy.com/media/eNN15JxJPCnFuUat81/giphy.webp?cid=ecf05e471aitxavhqjbfu0xzwqpw3un5qh6m3xba4pb8nmqp&ep=v1_gifs_search&rid=giphy.webp&ct=g"> -->
       </div>
 <div>
-<h2 align="center"> 🦊 ~ Sobre Mim ~ 🦊 </h2>
+<h2 align="center"> ~ Sobre Mim ~ </h2>
   <div align="center">
 <img src="https://media1.tenor.com/m/uzeKPffQKEkAAAAC/bom-dia-valtatui.gif)" align="right">
   </div>
 <li>
- <b>Nome:</b> Gabriel</li>
+ <b>Nome:</b> Alessandro</li>
 </li>
 <li>
-<b>Habilidades:</b> jogar roblox, gostar da escola
+<b>Habilidades:</b> sei desenhar
 </li>
 <li>
-<b>Gênero:</b> Ele/Delas/244 🏳️‍⚧️
+<b>Gênero:</b> hetero
 </li>
 <li>
-<b>Hobbys:</b> Jogar roblox, Jogar fortnite
+<b>passa tempo:</b> jogar, andar de bike
 </li>
 <br><br><br>
 </div>
